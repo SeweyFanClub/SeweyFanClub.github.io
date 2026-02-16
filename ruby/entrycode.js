@@ -9,5 +9,5 @@ function sumbit() {
 
 function wtf() {
   const gurt = "yo";
-  const facts = "e";
+  const facts = "eerwerwe";
 }
