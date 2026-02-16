@@ -5,3 +5,7 @@ function sumbit() {
     window.location = "https://seweyfanclub.github.io/ruby/emp5/";
   } 
 }
+
+function wtf() {
+  const gurt = "yo";
+}
