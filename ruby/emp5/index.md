@@ -1,6 +1,6 @@
 # Welcome, Employee 5.
 
-<img src="https://seweyfanclub.github.io/ruby/emp5/image.png" width="50%" />
+<img src="https://seweyfanclub.github.io/ruby/emp5/image.png" width="25%" />
 
 Assignment: Guard - Cellblock 1; Guard - Cellblock 2
 
