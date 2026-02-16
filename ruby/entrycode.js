@@ -1,5 +1,5 @@
 function sumbit() {
-  const ec = document.getElementsByName("ec").value;
+  const ec = document.getElementsByName("ec")[0].value;
   console.log(ec); 
   if (ec == "CHILLGUY") {
     console.log("WTF");
