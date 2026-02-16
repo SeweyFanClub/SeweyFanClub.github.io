@@ -1,7 +1,6 @@
 <p align="center">
   
-<img src="https://github.com/The-Syncade-Mafia/The-Syncade-Mafia.github.io/blob/main/assets/img/lock.png?raw=true" width="100" height="100" />    
-<img src="https://github.com/The-Syncade-Mafia/The-Syncade-Mafia.github.io/blob/main/assets/img/logooo.png?raw=true" width="100" height="100" />
+<img src="https://seweyfanclub.github.io/ruby/image.png" width="100" height="100" />    
 
 </p>
 <h1 align="center">Ruby Private Login</h1>  
@@ -11,3 +10,9 @@
 <button onclick="sumbit()">Enter</button>
 <script src="entrycode.js"></script>
 </p>
+
+## NOTICE FROM TECH
+
+Website is under maintenance. We are currently migrating to new severs, so some accounts may not be able to log in. We apologize for this inconvenience. Additionally, many features such as mail, cameras, and terminal are currently offline. We will try to fix these as soon as possible.
+
+Contact your supervisor for more information.
