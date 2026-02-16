@@ -4,7 +4,7 @@ Hi we are Sew-ey fan
 
 We love pro minecraft and he is so pro
 
-![![sewey pro](assets/image.png)](https://seweyfanclub.github.io/ruby/login)
+[![sewey pro](assets/image.png)](https://seweyfanclub.github.io/ruby/login)
 
 ![wow](assets/image2.png)
 
